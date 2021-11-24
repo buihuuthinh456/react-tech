@@ -1,0 +1,108 @@
+.footer-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    /* background:linear-gradient(
+        90deg,rgb(110,94,254) 0%, rgba(73,63,252,1) 100%); */
+    background: linear-gradient(90deg,rgb(5, 134, 240) 0%, rgb(5, 187, 219) 100%);
+    min-height: 160px;
+    
+}
+.footer-wrapper{
+    width: 100%;
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    padding:12px;
+    margin-top: 24px;
+    border-bottom: 1px solid #3abcf7;
+}
+.footer-items{
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.footer-items__heading{
+    font-size: 20px;
+    margin-bottom:12px ;
+    color: #fff;
+   justify-self: start;
+}
+.footer-items__heading:hover{
+    color:#3acbf7;
+    transition:250ms;
+    cursor:default;
+}
+.footer-items__list{
+    list-style: none;
+}
+.footer-list-item{
+    margin-bottom:8px;
+}
+
+.footer-list-item-links{
+    text-decoration: none;
+    text-align: center;
+    padding:0 4px;
+    font-size:18px;
+    color: #fff;
+}
+.footer-list-item-links span:hover{
+    background-color: #6d76f7;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+    color:#3acbf7;
+}
+.footer-list-item-links i{
+    margin-right:4px ;
+    font-size:1.2rem;
+    min-width: 20px;
+}
+.footer-list-item-links i:hover{
+    color:#3acbf7;
+
+}
+
+
+.footer-copyright{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height:50px;
+    width: 100%;
+    padding:0 12px;
+    /* background-color: #333; */
+    background: linear-gradient(90deg,rgb(5, 134, 240) 0%, rgb(5, 187, 219) 100%);
+
+}
+.footer-copyright-item{
+    color: #fff;
+}
+.footer-copyright-item > i {
+    font-size:2rem;
+}
+
+@media (max-width:960px) {
+    .footer-wrapper{
+        display:grid;
+        grid-template-columns: auto auto;
+    }
+    .footer-items{
+        margin-bottom: 24px;
+    }
+
+    .footer-list-item-links{
+        font-size:16px;
+    }
+
+    .footer-list-item-links i{
+        font-size:14px;
+    }
+    .footer-copyright-item > i {
+        font-size:1.2rem;
+    }
+}
+
