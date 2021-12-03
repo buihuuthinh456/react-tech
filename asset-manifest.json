@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-tech/static/css/main.43912143.chunk.css",
+    "main.js": "/react-tech/static/js/main.d5497e88.chunk.js",
+    "main.js.map": "/react-tech/static/js/main.d5497e88.chunk.js.map",
+    "runtime-main.js": "/react-tech/static/js/runtime-main.edc2e90a.js",
+    "runtime-main.js.map": "/react-tech/static/js/runtime-main.edc2e90a.js.map",
+    "static/js/2.92968186.chunk.js": "/react-tech/static/js/2.92968186.chunk.js",
+    "static/js/2.92968186.chunk.js.map": "/react-tech/static/js/2.92968186.chunk.js.map",
+    "static/js/3.e2c55438.chunk.js": "/react-tech/static/js/3.e2c55438.chunk.js",
+    "static/js/3.e2c55438.chunk.js.map": "/react-tech/static/js/3.e2c55438.chunk.js.map",
+    "index.html": "/react-tech/index.html",
+    "static/css/main.43912143.chunk.css.map": "/react-tech/static/css/main.43912143.chunk.css.map",
+    "static/js/2.92968186.chunk.js.LICENSE.txt": "/react-tech/static/js/2.92968186.chunk.js.LICENSE.txt",
+    "static/media/AI.09599fdf.jpg": "/react-tech/static/media/AI.09599fdf.jpg",
+    "static/media/Automation.409ae222.jpg": "/react-tech/static/media/Automation.409ae222.jpg",
+    "static/media/Chip.d2170f58.jpg": "/react-tech/static/media/Chip.d2170f58.jpg",
+    "static/media/IoT.579d0940.jpg": "/react-tech/static/media/IoT.579d0940.jpg",
+    "static/media/Stars.5c0c0bc3.jpg": "/react-tech/static/media/Stars.5c0c0bc3.jpg",
+    "static/media/Universe.25a79e9c.jpg": "/react-tech/static/media/Universe.25a79e9c.jpg",
+    "static/media/video3.e1513c5b.mp4": "/react-tech/static/media/video3.e1513c5b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc2e90a.js",
+    "static/js/2.92968186.chunk.js",
+    "static/css/main.43912143.chunk.css",
+    "static/js/main.d5497e88.chunk.js"
+  ]
+}
